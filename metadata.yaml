@@ -1,5 +1,8 @@
 _repo: Wastralls-A-Novel_53370
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53370-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Dawson Scott, C. A. (Catharine Amy)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '37217'
     url: http://www.gutenberg.org/2009/agents/37217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53370#Wastralls-A-Novel
 gutenberg_bookshelf: Romantic Fiction
 gutenberg_issued: '2016-10-26'
 gutenberg_type: Text
